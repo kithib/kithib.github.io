@@ -21,6 +21,8 @@ I am currently a third-year Master's student at the School of Computer and Softw
 
 My research interests primarily lie in the **post-training of Large Language Models (LLMs)**, including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning. Additionally, I am interested in **learning theories**, such as machine learning theory and reinforcement learning theory. 
 
+If you are interested in my research, please feel free to contact me via email at [weichenxing2023@email.szu.edu.cn](mailto:weichenxing2023@email.szu.edu.cn).
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
