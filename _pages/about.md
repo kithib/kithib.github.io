@@ -90,8 +90,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   Master, Computer Science, 2023.09 - (now), 
 
-  Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ)
-  Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
+  Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ), Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
 <br>
 <br>
 
