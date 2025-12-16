@@ -153,6 +153,3 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <br>
 
-# 👾 Misc
-
-<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1bw3j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=kX2KOIZec5lK22VitFidFZG9_RIYd8zSoWPTZZp1KA4&co=ffffff&ct=808080'/></a></dl>
