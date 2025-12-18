@@ -112,7 +112,7 @@ PAFT: Prompt-Agnostic Fine-Tuning
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2025</div><img src='images/flexora.png' alt="Flexora" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2025</div><img src='images/Flexora.png' alt="Flexora" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Flexora: Flexible Low-Rank Adaptation for Large Language Models
@@ -139,7 +139,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 # 📖 Educations
-- Shenzhen University<img src="images/insignia/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
+- Shenzhen University<img src="images/insignia/szu.png" alt="SZU Insignia" style="float: right; width: 90px;"/>
 
   Master, Computer Science, 2023.09 - (now), 
 
@@ -150,7 +150,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 
-- Nanjing University of Aeronautics and Astronautics<img src="images/insignia/NUAA.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
+- Nanjing University of Aeronautics and Astronautics<img src="images/insignia/nuaa.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
   
   Undergraduate, 2019.09 - 2023.06, 
   
@@ -166,7 +166,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 # 💻 Internships
 
 
-- ByteDance<img src="images/insignia/ByteDance.png" alt="ByteDance Insignia" style="float: right; width: 100px;"/>
+- ByteDance<img src="images/insignia/bytedance.png" alt="ByteDance Insignia" style="float: right; width: 100px;"/>
 
   Algorithm Intern, MarsCode Trae Team, 2025.10 - (now), 
 
@@ -177,7 +177,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 
-- Tencent<img src="images/insignia/Tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
+- Tencent<img src="images/insignia/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
   Algorithm Intern, CSIG CodeBuddy Team, 2025.02 - 2025.09, 
 
@@ -188,7 +188,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 
-- Tencent<img src="images/insignia/Tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
+- Tencent<img src="images/insignia/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
   Algorithm Intern, AI LAB, 2024.06 - 2024.12, 
   
