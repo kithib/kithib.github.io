@@ -150,7 +150,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 
-- Nanjing University of Aeronautics and Astronautics<img src="images/insignia/nuaa.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
+- Nanjing University of Aeronautics and Astronautics<img src="images/insignia/nuaa.jpg" alt="NUAA Insignia" style="float: right; width: 100px;"/>
   
   Undergraduate, 2019.09 - 2023.06, 
   
