@@ -30,9 +30,9 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01563">LFPO</a>, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference.  </li>
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01563">LFPO</a>, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference.  Check our <a href="https://github.com/kithib/LFPO"> Github</a>. </li>
 
-  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01375">ROSA2</a>, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed. </li>
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01375">ROSA2</a>, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed. Check our <a href="https://github.com/kithib/ROSA2"> Github</a>. </li>
 
   <li><em>2026.01:</em> 🎉🎉 <a href="https://openreview.net/forum?id=V4zln7XiJj">R-Score</a> is accepted by <strong>ICLR 2026</strong>.</li>
 
@@ -77,7 +77,7 @@ LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
 
 <strong>Chenxing Wei</strong>, Jiazhen Kang, Hong Wang, Jianqing Zhang, Hao Jiang, Xiaolong Xu, Ningyuan Sun, Ying He, F. Richard Yu, Yao Shu, Bo Jiang
 
-[**Paper**](https://arxiv.org/abs/2603.01563)  
+[**Paper**](https://arxiv.org/abs/2603.01563)  |  [**GitHub** ](https://github.com/kithib/LFPO) 
 - <strong>Algorithm (LFPO):</strong> Introduces **LFPO**, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference
 - <strong>Theory:</strong> Proves the theoretical equivalence of continuous Flow Matching and discrete Masked Diffusion, justifying efficient trajectory rectification beyond policy gradients
 
@@ -92,7 +92,7 @@ Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation
 
 <strong>Chenxing Wei</strong>, Hong Wang, Ying He, Zhongxiang Dai, Bo Jiang, F. Richard Yu, Yao Shu
 
-[**Paper**](https://arxiv.org/abs/2603.01375)   
+[**Paper**](https://arxiv.org/abs/2603.01375)  |  [**GitHub** ](https://github.com/kithib/ROSA2) 
 - <strong>Algorithm (ROSA2):</strong> Introduces **ROSA2**, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed
 - <strong>Theory:</strong> Rigorously proves that semantic refinement acts as a pre-conditioner to strictly reduce parameter shift and guarantee faster convergence to the optimal policy
 
