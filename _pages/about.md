@@ -93,7 +93,7 @@ Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation
 <strong>Chenxing Wei</strong>, Hong Wang, Ying He, Zhongxiang Dai, Bo Jiang, F. Richard Yu, Yao Shu
 
 [**Paper**](https://arxiv.org/abs/2509.23166)  |  [**GitHub** ](https://github.com/kithib/ROSA) 
-- <strong>Algorithm (ROSA):</strong> Introduces **ROSA2**, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed
+- <strong>Algorithm (ROSA2):</strong> Introduces **ROSA2**, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed
 - <strong>Theory:</strong> Rigorously proves that semantic refinement acts as a pre-conditioner to strictly reduce parameter shift and guarantee faster convergence to the optimal policy
 
 </div>
