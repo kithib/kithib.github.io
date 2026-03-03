@@ -70,6 +70,35 @@ If you are interested in my research, please feel free to contact me via [![Emai
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
+
+<strong>Chenxing Wei</strong>, Jiazhen Kang, Hong Wang, Jianqing Zhang, Hao Jiang, Xiaolong Xu, Ningyuan Sun, Ying He, F. Richard Yu, Yao Shu, Bo Jiang
+
+[**Paper**](https://arxiv.org/abs/2509.23166)  |  [**GitHub** ](https://github.com/kithib/ROSA) 
+- <strong>Algorithm (LFPO):</strong> Introduces **LFPO**, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference
+- <strong>Theory:</strong> Proves the theoretical equivalence of continuous Flow Matching and discrete Masked Diffusion, justifying efficient trajectory rectification beyond policy gradients
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ROSA2.png' alt="ROSA2" width="100%" style="display: block;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation
+
+<strong>Chenxing Wei</strong>, Hong Wang, Ying He, Zhongxiang Dai, Bo Jiang, F. Richard Yu, Yao Shu
+
+[**Paper**](https://arxiv.org/abs/2509.23166)  |  [**GitHub** ](https://github.com/kithib/ROSA) 
+- <strong>Algorithm (ROSA):</strong> Introduces **ROSA2**, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed
+- <strong>Theory:</strong> Rigorously proves that semantic refinement acts as a pre-conditioner to strictly reduce parameter shift and guarantee faster convergence to the optimal policy
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop MTI-LLM</div><img src='images/ROSA.png' alt="ROSA" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
