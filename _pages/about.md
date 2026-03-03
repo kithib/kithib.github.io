@@ -30,6 +30,11 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01563">LFPO</a>, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference.  </li>
+
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01375">ROSA2</a>, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed. </li>
+
+  <li><em>2026.01:</em> 🎉🎉 <a href="https://openreview.net/forum?id=V4zln7XiJj">R-Score</a> is accepted by <strong>ICLR 2026</strong>.</li>
 
   <li><em>2025.12:</em> 🎉🎉 <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115973">ReDit</a> is accepted by <strong>NeurIPS 2025</strong>.</li>
 
@@ -46,7 +51,6 @@ If you are interested in my research, please feel free to contact me via [![Emai
   <li><em>2025.09:</em> We propose <a href="https://arxiv.org/abs/2509.23166">ROSA</a>, a lightweight algorithm for our test-time adaptation paradigm that enables LLMs to perform efficient in-conversation self-correction by updating parameters online using real-time user feedback. Check our <a href="https://github.com/kithib/ROSA"> Github</a>.</li>
 
   <li><em>2025.08:</em> We propose <a href="https://arxiv.org/abs/2508.07766">UniSVG</a>, a SVG dataset for improving MLLM SVG generate performance. Check our <a href="https://ryanlijinke.github.io/"> Project Page</a> and <a href="https://huggingface.co/datasets/lili24/UniSVG"> Hugging Face</a>.</li>
-
 
   <li><em>2025.06:</em> We propose <a href="https://arxiv.org/abs/2506.18631">ReDit</a>, a technique that enhances reinforcement learning in large language models by adding random perturbations to reward signals, improving training efficiency and convergence speed while maintaining performance. Check our <a href="https://github.com/kithib/ReDit"> Github</a>.</li>
 
