@@ -30,6 +30,11 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  
+  <li><em>2026.04:</em> 🎉🎉 <a href="https://arxiv.org/abs/2510.21830">GAPO</a> is accepted by <strong>ACL 2026 Findings</strong>.</li>
+
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.15255">SAGE</a>, a method that enhances multi-step reasoning in LLMs through a closed-loop, self-evolving framework of four agents (Challenger, Planner, Solver, and Critic) that autonomously generate, plan, solve, and verify tasks using minimal human-labeled data. </li>
+
   <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01563">LFPO</a>, which overcomes the likelihood intractability in Diffusion LLMs by directly optimizing denoising logits via contrastive positive/negative trajectories, achieving SOTA performance with significantly faster inference.  Check our <a href="https://github.com/kithib/LFPO"> Github</a>. </li>
 
   <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.01375">ROSA2</a>, which reformulates test-time adaptation as a co-adaptation framework that jointly optimizes interaction context and model parameters to significantly accelerate convergence speed. Check our <a href="https://github.com/kithib/ROSA2"> Github</a>. </li>
