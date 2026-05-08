@@ -33,7 +33,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   <li><em>2026.05:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01375">ROSA2</a> is accepted by <strong>ICML 2026</strong>.</li>
 
-  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2605.02469">BOLT</a>, an offline training framework that mathematically aligns static SFT with the optimal Boltzmann policy in online RLVR, revealing that iterative BOLT strictly functions as Policy Mirror Descent (PMD). </li>
+  <li><em>2026.05:</em> We propose <a href="https://arxiv.org/abs/2605.02469">BOLT</a>, an offline training framework that mathematically aligns static SFT with the optimal Boltzmann policy in online RLVR, revealing that iterative BOLT strictly functions as Policy Mirror Descent (PMD). </li>
 
   <li><em>2026.04:</em> 🎉🎉 <a href="https://arxiv.org/abs/2510.21830">GAPO</a> is accepted by <strong>ACL 2026 Findings</strong>.</li>
 
