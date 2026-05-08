@@ -30,7 +30,11 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  
+
+  <li><em>2026.05:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01375">ROSA2</a> is accepted by <strong>ICML 2026</strong>.</li>
+
+  <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2605.02469">BOLT</a>, an offline training framework that mathematically aligns static SFT with the optimal Boltzmann policy in online RLVR, revealing that iterative BOLT strictly functions as Policy Mirror Descent (PMD). </li>
+
   <li><em>2026.04:</em> 🎉🎉 <a href="https://arxiv.org/abs/2510.21830">GAPO</a> is accepted by <strong>ACL 2026 Findings</strong>.</li>
 
   <li><em>2026.03:</em> We propose <a href="https://arxiv.org/abs/2603.15255">SAGE</a>, a method that enhances multi-step reasoning in LLMs through a closed-loop, self-evolving framework of four agents (Challenger, Planner, Solver, and Critic) that autonomously generate, plan, solve, and verify tasks using minimal human-labeled data. </li>
@@ -90,7 +94,7 @@ LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ROSA2.png' alt="ROSA2" width="100%" style="display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ROSA2.png' alt="ROSA2" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation
