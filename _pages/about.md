@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a third-year Master's student at the School of Computer and Software, **Shenzhen University**, supervised by Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ). I am also fortunate to be advised by Prof. [Yao Shu](https://yao.notion.site/). 
 
-My research interests primarily lie in the post-training of Large Language Models (LLMs), including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in learning theories, such as Machine Learning Theory, Optimization Theory, Reinforcement Learning Theory. 
+My research interests primarily lie in the post-training of Large Language Models (LLMs), including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory, as well as Self-evolving Agents and Agentic Reinforcement Learning.
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
@@ -176,18 +176,21 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 # 🎡 Service
 - Reviewer for ICLR'2026
-
+- Reviewer for NeurIPS'2026
 
 <br>
 
 
 # 🎖 Honors and Awards
-- *2025.11* Senior Area Chair Highlights Award of EMNLP 2025.
-- *2025.10* National Scholarship *Shenzhen University*
-- *2025.09* First-Class Academic Scholarship *Shenzhen University*
-- *2023.09* Second-Class Academic Scholarship *Shenzhen University*
-- *2022.06* First Prize in the TI Cup National Undergraduate Electronics Design Contest *Nanjing University of Aeronautics and Astronautics*
-- *2021.06* First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling *Nanjing University of Aeronautics and Astronautics*
+
+- *2026.06* Outstanding Graduation Thesis Awards, *Shenzhen University*
+- *2026.06* Outstanding Graduates, *Shenzhen University*
+- *2025.11* Senior Area Chair Highlights Award, *EMNLP 2025*
+- *2025.10* National Scholarship, *Shenzhen University*
+- *2025.09* First-Class Academic Scholarship, *Shenzhen University*
+- *2023.09* Second-Class Academic Scholarship, *Shenzhen University*
+- *2022.06* First Prize in the TI Cup National Undergraduate Electronics Design Contest, *Nanjing University of Aeronautics and Astronautics*
+- *2021.06* First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling, *Nanjing University of Aeronautics and Astronautics*
 
 <br>
 
@@ -221,9 +224,11 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - ByteDance<img src="images/bytedance.png" alt="ByteDance Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, MarsCode Trae Team, 2025.10 - (now), 
+  Algorithm Intern, Trae Team, 2025.10 - (now), 
 
-  Main contributions: Research on reinforcement learning for diffusion language models in code modification
+  Main contributions: 
+  - Research on reinforcement learning for DLLM in code modification and proposes LFPO. 
+  - Research on integrating browser-use agents with code generation agents for harness-guided web code improvement.
   
 
 
@@ -232,7 +237,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - Tencent<img src="images/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, CSIG CodeBuddy Team, 2025.02 - 2025.09, 
+  Algorithm Intern, CSIG, 2025.02 - 2025.09, 
 
   Main contributions: Research on self-play reinforcement learning framework for GUI agents.
   
@@ -243,9 +248,9 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - Tencent<img src="images/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, AI LAB Digital Human Team, 2024.06 - 2024.12, 
+  Algorithm Intern, AI LAB, 2024.06 - 2024.12, 
   
-  Main contributions: Research on emotion and action prediction model of the game NPC and Scaling Law.
+  Main contributions: Research on emotion and action prediction model of the game NPC.
 
 <br>
 
