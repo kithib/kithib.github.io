@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master's student at the School of Computer and Software, **Shenzhen University**, supervised by Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ). I am also fortunate to be advised by Prof. [Yao Shu](https://yao.notion.site/). 
+I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
 
 My research interests primarily lie in the post-training of Large Language Models (LLMs), including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory, as well as Self-evolving Agents and Agentic Reinforcement Learning.
 
@@ -30,6 +30,8 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+
+  <li><em>2026.08:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01563">LFPO</a> is accepted by <strong>EMNLP 2026 Main Conference</strong>.</li>
 
   <li><em>2026.05:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01375">ROSA2</a> is accepted by <strong>ICML 2026</strong>.</li>
 
@@ -79,7 +81,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
@@ -175,8 +177,9 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 
 # 🎡 Service
-- Reviewer for ICLR'2026
-- Reviewer for NeurIPS'2026
+- Reviewer for ICLR 2026
+- Reviewer for NeurIPS 2026
+- Reviewer for EMNLP 2026
 
 <br>
 
@@ -194,25 +197,34 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 <br>
 
-# 📖 Educations
-- Shenzhen University<img src="images/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
+# 📖 Education
+- The University of Hong Kong<img src="images/hku.jpg" alt="HKU Insignia" class="education-logo"/>
 
-  Master, Computer Science, 2023.09 - (now), 
+  Ph.D. Student, 2026 - Present
+
+  Advisor: Prof. [Difan Zou](https://difanzou.github.io/)
+
+<div class="education-separator"></div>
+
+
+- Shenzhen University<img src="images/szu.jpg" alt="SZU Insignia" class="education-logo"/>
+
+  Master, Computer Science, 2023.09 - 2026.06,
 
   Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ), 
   Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
 
 
-<br>
+<div class="education-separator"></div>
 
 
-- Nanjing University of Aeronautics and Astronautics<img src="images/nuaa.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
+- Nanjing University of Aeronautics and Astronautics<img src="images/nuaa.png" alt="NUAA Insignia" class="education-logo"/>
   
   Undergraduate, 2019.09 - 2023.06, 
   
   Advisor: Prof. [Hanlin Sheng](https://ieeexplore.ieee.org/author/37088579434)
 
-<br>
+<div class="education-separator"></div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -224,7 +236,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - ByteDance<img src="images/bytedance.png" alt="ByteDance Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, Trae Team, 2025.10 - (now), 
+  Algorithm Intern, Trae Team, 2025.10 - 2026.06,
 
   Main contributions: 
   - Research on reinforcement learning for DLLM in code modification and proposes LFPO. 
@@ -256,4 +268,10 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 # 👾 Misc
 
-<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1c8rp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=c5IJ9oUE3RAFx8fpbatKqj2RG2kvS8advuWniqVHnBY'/></a></dl>
+- English proficiency: IELTS overall band score 7.0.
+
+<div style="text-align: center;">
+  <a href="https://clustrmaps.com/site/1c8rp" title="Visit tracker">
+    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=c5IJ9oUE3RAFx8fpbatKqj2RG2kvS8advuWniqVHnBY" alt="Visitor map" loading="lazy"/>
+  </a>
+</div>
