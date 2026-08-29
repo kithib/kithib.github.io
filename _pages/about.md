@@ -19,17 +19,11 @@ redirect_from:
 
 I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
 
-My research aims to develop **adaptive, self-improving, and theoretically grounded foundation models**. I pursue this agenda across two research horizons:
+My research focuses on **theoretically grounded, self-improving AI systems**, with two main directions:
 
-1. **Long-Term Direction — Theory of Pre-Training:** I aim to develop a principled understanding of how pre-training produces representations, reasoning abilities, and generalization. I am particularly interested in how data, model scale, model architecture, and optimization dynamics interact, and in translating these insights into theoretically grounded training algorithms.
+1. **Long-Term — Pre-Training Theory:** understanding how data, scale, architecture, and optimization shape learning and generalization.
 
-2. **Short-Term Direction — Self-Evolving Agents:** My current work focuses on agents that continually improve through interaction, self-generated experience, and feedback. In particular, I am interested in:
-    - **Solving Harder Problems:** enabling agents to autonomously construct curricula and develop increasingly strong planning, reasoning, coding, and verification capabilities.
-    - **Human-Readable and Preference-Aligned Outputs:** making model reasoning and outputs easier for humans to understand and inspect, while incorporating human preferences into learning and decision-making.
-    - **Token-Efficient Reasoning:** reducing unnecessary reasoning steps and token consumption without sacrificing solution quality, robustness, or adaptability.
-    - **Theory-Guided Algorithm Design:** using optimization and reinforcement learning theory to derive guarantees, identify fundamental trade-offs, and design more stable and efficient self-evolution algorithms.
-
-Methodologically, this agenda connects **LLM post-training and alignment**, **test-time adaptation**, **multi-agent self-play**, **RL with verifiable rewards**, and **diffusion language model optimization**.
+2. **Short-Term — Self-Evolving Agents:** building agents that solve increasingly difficult problems while producing **human-aligned, readable, and token-efficient** outputs, using optimization theory to improve algorithms and provide guarantees.
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
