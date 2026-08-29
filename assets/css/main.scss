@@ -107,3 +107,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.education-logo {
+    float: right;
+    width: 96px;
+    height: 96px;
+    margin: 0 0 1rem 1rem;
+    object-fit: contain;
+}
+
+.education-separator {
+    clear: both;
+    height: 1.5rem;
+}

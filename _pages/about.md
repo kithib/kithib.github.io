@@ -198,16 +198,16 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 <br>
 
 # 📖 Education
-- The University of Hong Kong
+- The University of Hong Kong<img src="images/hku.jpg" alt="HKU Insignia" class="education-logo"/>
 
   Ph.D. Student, 2026 - Present
 
   Advisor: Prof. [Difan Zou](https://difanzou.github.io/)
 
-<br>
+<div class="education-separator"></div>
 
 
-- Shenzhen University<img src="images/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
+- Shenzhen University<img src="images/szu.jpg" alt="SZU Insignia" class="education-logo"/>
 
   Master, Computer Science, 2023.09 - 2026.06,
 
@@ -215,16 +215,16 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
   Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
 
 
-<br>
+<div class="education-separator"></div>
 
 
-- Nanjing University of Aeronautics and Astronautics<img src="images/nuaa.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
+- Nanjing University of Aeronautics and Astronautics<img src="images/nuaa.png" alt="NUAA Insignia" class="education-logo"/>
   
   Undergraduate, 2019.09 - 2023.06, 
   
   Advisor: Prof. [Hanlin Sheng](https://ieeexplore.ieee.org/author/37088579434)
 
-<br>
+<div class="education-separator"></div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
