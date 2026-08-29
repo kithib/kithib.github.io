@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
 
-My research interests primarily lie in the post-training of Large Language Models (LLMs), including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory, as well as Self-evolving Agents and Agentic Reinforcement Learning.
+My research interests primarily lie in the **post-training of Large Language Models (LLMs)**, including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in the **theory of pre-training** and learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory. Recently, I have been working on **Self-Evolving Agents and Agentic Reinforcement Learning**, with a focus on solving harder problems, generating more human-readable and preference-aligned outputs, improving token efficiency, and developing theoretically grounded algorithms with optimization guarantees.
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
