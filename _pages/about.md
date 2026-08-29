@@ -19,7 +19,17 @@ redirect_from:
 
 I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
 
-My research interests primarily lie in the post-training of Large Language Models (LLMs), including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory, as well as Self-evolving Agents and Agentic Reinforcement Learning.
+My research aims to develop **adaptive, self-improving, and theoretically grounded foundation models**. I pursue this agenda across two research horizons:
+
+1. **Long-Term Direction — Theory of Pre-Training:** I aim to develop a principled understanding of how pre-training produces representations, reasoning abilities, and generalization. I am particularly interested in how data, model scale, model architecture, and optimization dynamics interact, and in translating these insights into theoretically grounded training algorithms.
+
+2. **Short-Term Direction — Self-Evolving Agents:** My current work focuses on agents that continually improve through interaction, self-generated experience, and feedback. In particular, I am interested in:
+    - **Solving Harder Problems:** enabling agents to autonomously construct curricula and develop increasingly strong planning, reasoning, coding, and verification capabilities.
+    - **Human-Readable and Preference-Aligned Outputs:** making model reasoning and outputs easier for humans to understand and inspect, while incorporating human preferences into learning and decision-making.
+    - **Token-Efficient Reasoning:** reducing unnecessary reasoning steps and token consumption without sacrificing solution quality, robustness, or adaptability.
+    - **Theory-Guided Algorithm Design:** using optimization and reinforcement learning theory to derive guarantees, identify fundamental trade-offs, and design more stable and efficient self-evolution algorithms.
+
+Methodologically, this agenda connects **LLM post-training and alignment**, **test-time adaptation**, **multi-agent self-play**, **RL with verifiable rewards**, and **diffusion language model optimization**.
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
