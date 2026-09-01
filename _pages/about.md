@@ -21,6 +21,10 @@ I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised
 
 My research interests primarily lie in the **post-training of Large Language Models (LLMs)**, including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in the **theory of pre-training** and learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory. Recently, I have been working on **Self-Evolving Agents and Agentic Reinforcement Learning**, with a focus on solving harder problems, generating more human-readable and preference-aligned outputs, improving token efficiency, and developing theoretically grounded algorithms with optimization guarantees.
 
+My English proficiency is demonstrated by an **IELTS overall band score of 7.0**.
+
+<span id="scholar-citation-summary" hidden>My publications have received <strong><span id="total_cit" aria-live="polite"></span> citations</strong> on <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ">Google Scholar</a>.</span>
+
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
 <br/>
@@ -51,7 +55,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   <li><em>2025.11:</em> 🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758269">UniSVG</a> is accepted by <strong>ACM MM 2025 Dataset Track</strong>.</li>
 
-  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at <strong>EMNLP 2025!</strong> </li>
+  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025 Main Conference</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at <strong>EMNLP 2025!</strong> </li>
 
   <li><em>2025.10:</em> I serve as a reviewer for <strong>ICLR 2026</strong>.</li>
 
@@ -65,7 +69,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   <li><em>2025.06:</em> We propose <a href="https://arxiv.org/abs/2506.18631">ReDit</a>, a technique that enhances reinforcement learning in large language models by adding random perturbations to reward signals, improving training efficiency and convergence speed while maintaining performance. Check our <a href="https://github.com/kithib/ReDit"> Github</a>.</li>
 
-  <li><em>2025.06:</em> 🎉🎉 <a href="https://aclanthology.org/2025.acl-long.713/">Flexora</a> is accepted by <strong>ACL 2025</strong>.</li>
+  <li><em>2025.06:</em> 🎉🎉 <a href="https://aclanthology.org/2025.acl-long.713/">Flexora</a> is accepted by <strong>ACL 2025 Main Conference</strong>.</li>
 
   <li><em>2025.02:</em> We propose <a href="https://arxiv.org/abs/2502.12859">PAFT</a>, which dynamically adjusts prompts during training, improving robustness, generalization, and even inference speed. Check our <a href="https://github.com/kithib/PAFT"> Github</a>.</li>
 
@@ -126,7 +130,7 @@ Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with LLMs
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2025</div><img src='images/ReDit.png' alt="ReDit" width="100%" style="display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ReDit.png' alt="ReDit" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ReDit: Reward Dithering for Improved LLM Policy Optimization
@@ -141,7 +145,7 @@ ReDit: Reward Dithering for Improved LLM Policy Optimization
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2025</div><img src='images/PAFT.png' alt="PAFT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PAFT.png' alt="PAFT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PAFT: Prompt-Agnostic Fine-Tuning
@@ -158,7 +162,7 @@ PAFT: Prompt-Agnostic Fine-Tuning
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2025</div><img src='images/Flexora.png' alt="Flexora" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/Flexora.png' alt="Flexora" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Flexora: Flexible Low-Rank Adaptation for Large Language Models
@@ -268,10 +272,11 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 # 👾 Misc
 
-- English proficiency: IELTS overall band score 7.0.
-
 <div style="text-align: center;">
-  <a href="https://clustrmaps.com/site/1c8rp" title="Visit tracker">
-    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=c5IJ9oUE3RAFx8fpbatKqj2RG2kvS8advuWniqVHnBY" alt="Visitor map" loading="lazy"/>
-  </a>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=wKqgeh-N90xIj8eybW-CQnEiRLxwelgkHx7ekkOyQL0&amp;cl=ffffff&amp;w=a"></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com/web/1c7ya" title="Visit tracker">
+      <img src="https://mapmyvisitors.com/map.png?d=wKqgeh-N90xIj8eybW-CQnEiRLxwelgkHx7ekkOyQL0&amp;cl=ffffff" alt="Visitor map" loading="lazy"/>
+    </a>
+  </noscript>
 </div>
