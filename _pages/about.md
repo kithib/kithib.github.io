@@ -23,6 +23,8 @@ My research interests primarily lie in the **post-training of Large Language Mod
 
 My English proficiency is demonstrated by an **IELTS overall band score of 7.0**.
 
+<span id="scholar-citation-summary" hidden>My publications have received <strong><span id="total_cit" aria-live="polite"></span> citations</strong> on <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ">Google Scholar</a>.</span>
+
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
 <br/>
@@ -271,5 +273,10 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 # 👾 Misc
 
 <div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=kithib&label=Homepage%20Views&color=0e75b6&style=flat" alt="Homepage view counter" loading="lazy"/>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=wKqgeh-N90xIj8eybW-CQnEiRLxwelgkHx7ekkOyQL0&amp;cl=ffffff&amp;w=a"></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com/web/1c7ya" title="Visit tracker">
+      <img src="https://mapmyvisitors.com/map.png?d=wKqgeh-N90xIj8eybW-CQnEiRLxwelgkHx7ekkOyQL0&amp;cl=ffffff" alt="Visitor map" loading="lazy"/>
+    </a>
+  </noscript>
 </div>
