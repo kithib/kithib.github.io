@@ -9,7 +9,7 @@
             var totalCitation = data['citedby']
             var totalCitationElement = document.getElementById('total_cit')
             var citationSummaryElement = document.getElementById('scholar-citation-summary')
-            if (totalCitationElement) {
+            if (totalCitationElement && Number.isFinite(Number(totalCitation))) {
                 totalCitationElement.textContent = totalCitation
                 if (citationSummaryElement) {
                     citationSummaryElement.hidden = false
