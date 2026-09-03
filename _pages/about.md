@@ -204,7 +204,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 # 📖 Education
 - The University of Hong Kong<img src="images/hku.jpg" alt="HKU Insignia" class="education-logo"/>
 
-  Ph.D. Student, 2026 - Present
+  Ph.D. Student, 2026.09 - Present
 
   Advisor: Prof. [Difan Zou](https://difanzou.github.io/)
 
