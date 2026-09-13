@@ -23,7 +23,7 @@ My research interests primarily lie in the **post-training of Large Language Mod
 
 My English proficiency is demonstrated by an **IELTS overall band score of 7.0**.
 
-<span id="scholar-citation-summary">My publications have received <strong><span id="total_cit" aria-live="polite">411</span> citations</strong> on <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ">Google Scholar</a>.</span>
+<span id="scholar-citation-summary">My publications have received <strong><span id="total_cit" aria-live="polite">426</span> citations</strong> on <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ">Google Scholar</a>. <small id="scholar-last-updated" hidden></small></span>
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 

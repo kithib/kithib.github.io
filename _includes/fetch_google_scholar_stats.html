@@ -5,14 +5,27 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+        var gsDataUrl = gsDataBaseUrl + "google-scholar-stats/gs_data.json?v=" + Math.floor(Date.now() / 300000)
+        $.getJSON(gsDataUrl, function (data) {
             var totalCitation = data['citedby']
             var totalCitationElement = document.getElementById('total_cit')
             var citationSummaryElement = document.getElementById('scholar-citation-summary')
+            var lastUpdatedElement = document.getElementById('scholar-last-updated')
             if (totalCitationElement && Number.isFinite(Number(totalCitation))) {
                 totalCitationElement.textContent = totalCitation
                 if (citationSummaryElement) {
                     citationSummaryElement.hidden = false
+                }
+            }
+            if (lastUpdatedElement && data['updated']) {
+                var lastUpdated = new Date(data['updated'])
+                if (!Number.isNaN(lastUpdated.getTime())) {
+                    lastUpdatedElement.textContent = 'Last updated ' + lastUpdated.toLocaleDateString('en-US', {
+                        year: 'numeric',
+                        month: 'short',
+                        day: 'numeric'
+                    }) + '.'
+                    lastUpdatedElement.hidden = false
                 }
             }
             var citationEles = document.getElementsByClassName('show_paper_citations')
