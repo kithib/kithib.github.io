@@ -10,15 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
+I am currently a Ph.D. student in Computing and Data Science at the **School of Computing and Data Science, The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
 
-My research interests primarily lie in the **post-training of Large Language Models (LLMs)**, including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in the **theory of pre-training** and learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory. Recently, I have been working on **Self-Evolving Agents and Agentic Reinforcement Learning**, with a focus on solving harder problems, generating more human-readable and preference-aligned outputs, improving token efficiency, and developing theoretically grounded algorithms with optimization guarantees.
+My research interests primarily lie in the **post-training of Large Language Models (LLMs)**, including Supervised Fine-Tuning (SFT), Prompt Optimization, and Reinforcement Learning (RL). Additionally, I am interested in the **theory of pre-training** and learning theories, such as Machine Learning Theory, Optimization Theory, and Reinforcement Learning Theory. I also study **learning across pre-training and post-training**, **test-time learning**, and **LLM-driven adaptive optimization for complex artifacts**. Recently, I have been working on **Self-Evolving Agents and Agentic Reinforcement Learning**, with a focus on solving harder problems, generating more human-readable and preference-aligned outputs, improving token efficiency, and developing theoretically grounded algorithms with optimization guarantees.
 
 My English proficiency is demonstrated by an **IELTS overall band score of 7.0**.
 
 My live [Google Scholar](https://scholar.google.com/citations?user=Dv8hrakAAAAJ) citation count: <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ" title="Google Scholar citations"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DDv8hrakAAAAJ&amp;cacheSeconds=43200" alt="Google Scholar citations" loading="lazy" style="vertical-align: middle;"></a>
 
-If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
+If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:wcx1010465183@gmail.com).
 
 <br/>
 
@@ -48,7 +48,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   <li><em>2025.11:</em> 🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758269">UniSVG</a> is accepted by <strong>ACM MM 2025 Dataset Track</strong>.</li>
 
-  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025 Main Conference</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at <strong>EMNLP 2025!</strong> </li>
+  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025 Main Conference</strong> and receives the <strong>SAC Highlight Award (Top 2%)</strong>.</li>
 
   <li><em>2025.10:</em> I serve as a reviewer for <strong>ICLR 2026</strong>.</li>
 
@@ -75,10 +75,10 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <br/>
 
-# 📝 Publications 
+# 📝 Selected Publications
 **&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
@@ -138,7 +138,7 @@ ReDit: Reward Dithering for Improved LLM Policy Optimization
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PAFT.png' alt="PAFT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main Oral · SAC Highlight Top 2%</div><img src='images/PAFT.png' alt="PAFT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PAFT: Prompt-Agnostic Fine-Tuning
@@ -155,13 +155,13 @@ PAFT: Prompt-Agnostic Fine-Tuning
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/Flexora.png' alt="Flexora" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/Flexora.png' alt="Flexora" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 
-<strong>Chenxing Wei&dagger;</strong>, Yao Shu&dagger;, Ying Tiffany He, Fei Yu
+<strong>Chenxing Wei&dagger;</strong>, Yao Shu&dagger;, Ying Tiffany He, Fei Richard Yu
 
 [**Paper** ](https://arxiv.org/abs/2408.10774)  |  [**GitHub** ](https://github.com/kithib/Flexora) 
 - <strong>Algorithm (Flexora):</strong> Introduces Flexora, a framework that treats layer selection as a Hyperparameter Optimization (HPO) problem. It employs unrolled differentiation to automatically learn a policy that identifies and adapts only the most critical layers for specific downstream tasks.
@@ -183,9 +183,9 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 # 🎖 Honors and Awards
 
-- *2026.06* Outstanding Graduation Thesis Awards, *Shenzhen University*
-- *2026.06* Outstanding Graduates, *Shenzhen University*
-- *2025.11* Senior Area Chair Highlights Award, *EMNLP 2025*
+- *2026.06* Outstanding Graduation Thesis Award, *Shenzhen University*
+- *2026.06* Outstanding Graduate, *Shenzhen University*
+- *2025.11* SAC Highlight Award (Top 2%), *EMNLP 2025*
 - *2025.10* National Scholarship, *Shenzhen University*
 - *2025.09* First-Class Academic Scholarship, *Shenzhen University*
 - *2023.09* Second-Class Academic Scholarship, *Shenzhen University*
@@ -197,7 +197,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 # 📖 Education
 - The University of Hong Kong<img src="images/hku.jpg" alt="HKU Insignia" class="education-logo"/>
 
-  Ph.D. Student, 2026.09 - Present
+  Ph.D. Student in Computing and Data Science, School of Computing and Data Science, 2026.09 - Present (Expected 2030)
 
   Advisor: Prof. [Difan Zou](https://difanzou.github.io/)
 
@@ -246,7 +246,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - Tencent<img src="images/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, CSIG, 2025.02 - 2025.09, 
+  Algorithm Intern, CSIG - CodeBuddy Team, 2025.02 - 2025.09,
 
   Main contributions: Research on self-play reinforcement learning framework for GUI agents.
   
