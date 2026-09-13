@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at **The University of Hong Kong (HKU)**, advised by Prof. [Difan Zou](https://difanzou.github.io/).
@@ -23,7 +16,7 @@ My research interests primarily lie in the **post-training of Large Language Mod
 
 My English proficiency is demonstrated by an **IELTS overall band score of 7.0**.
 
-<span id="scholar-citation-summary">My publications have received <strong><span id="total_cit" aria-live="polite">426</span> citations</strong> on <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ">Google Scholar</a>. <small id="scholar-last-updated" hidden></small></span>
+My live [Google Scholar](https://scholar.google.com/citations?user=Dv8hrakAAAAJ) citation count: <a href="https://scholar.google.com/citations?user=Dv8hrakAAAAJ" title="Google Scholar citations"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DDv8hrakAAAAJ&amp;cacheSeconds=43200" alt="Google Scholar citations" loading="lazy" style="vertical-align: middle;"></a>
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
