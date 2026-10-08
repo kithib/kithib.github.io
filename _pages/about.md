@@ -252,8 +252,8 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
   Algorithm Intern, Trae Team, 2025.10 - 2026.06,
 
   Main contributions: 
-  - Research on reinforcement learning for DLLM in code modification and proposes LFPO. 
-  - Research on integrating browser-use agents with code generation agents for harness-guided web code improvement.
+  - Research on reinforcement learning for DLLM in code modification and proposes LFPO. (2025.10 - 2026.02)
+  - Research on integrating browser-use agents with code generation agents for harness-guided web code improvement. (2026.03 - 2026.06)
   
 
 
