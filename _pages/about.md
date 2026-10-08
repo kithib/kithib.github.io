@@ -28,6 +28,8 @@ If you are interested in my research, please feel free to contact me via [![Emai
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
 
+  <li><em>2026.09:</em> We propose <a href="https://arxiv.org/abs/2609.37221">OptiCom</a>, a unified framework that dynamically composes search mechanisms based on the optimization state and remaining budget, combining an Optimization Controller with a slower Strategy Adapter for LLM-driven optimization.</li>
+  
   <li><em>2026.08:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01563">LFPO</a> is accepted by <strong>EMNLP 2026 Main Conference</strong>.</li>
 
   <li><em>2026.05:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01375">ROSA2</a> is accepted by <strong>ICML 2026</strong>.</li>
@@ -77,6 +79,20 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 # 📝 Selected Publications
 **&dagger; Equal Contribution**   
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/OptiCom.png' alt="OptiCom" width="100%" style="display: block;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+OptiCom: A Unified Framework for State-Conditioned Composition in LLM-Driven Optimization
+
+<strong>Chenxing Wei</strong>, Sichen Liu, Lizhao Liu, Ningyuan Sun, Chen Bingzhou, Ying He, Bo Jiang, Fei Yu, Yao Shu
+
+[**Paper**](https://arxiv.org/abs/2609.37221) |  [**GitHub** ](https://github.com/kithib/OptiCom) 
+- <strong>Algorithm (OptiCom):</strong> Introduces **OptiCom**, which unifies LLM-driven optimizers in a shared configuration space and dynamically composes search mechanisms through an Optimization Controller and a slower Strategy Adapter
+- <strong>Theory:</strong> Decomposes expected terminal improvement into cumulative decision opportunities minus selection losses, deriving a sufficient condition for positive improvement under a shared budget
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
