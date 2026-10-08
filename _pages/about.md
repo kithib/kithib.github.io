@@ -80,7 +80,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 # 📝 Selected Publications
 **&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/OptiCom.png' alt="OptiCom" width="100%" style="display: block;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OptiCom.png' alt="OptiCom" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 OptiCom: A Unified Framework for State-Conditioned Composition in LLM-Driven Optimization
