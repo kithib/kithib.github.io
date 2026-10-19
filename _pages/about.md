@@ -28,6 +28,8 @@ If you are interested in my research, please feel free to contact me via [![Emai
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
 
+  <li><em>2026.10:</em> We propose <a href="https://openreview.net/forum?id=NLBf1woUhz">Diff Diffusion</a>, a diffusion-based approach that predicts edit paths for efficient code editing.</li>
+
   <li><em>2026.09:</em> We propose <a href="https://arxiv.org/abs/2609.37221">OptiCom</a>, a unified framework that dynamically composes search mechanisms based on the optimization state and remaining budget, combining an Optimization Controller with a slower Strategy Adapter for LLM-driven optimization.</li>
   
   <li><em>2026.08:</em> 🎉🎉 <a href="https://arxiv.org/abs/2603.01563">LFPO</a> is accepted by <strong>EMNLP 2026 Main Conference</strong>.</li>
