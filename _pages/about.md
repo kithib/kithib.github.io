@@ -99,7 +99,7 @@ OptiCom: A Unified Framework for State-Conditioned Composition in LLM-Driven Opt
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/LFPO.png' alt="LFPO" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models
+Efficient Token-Level Policy Optimization for Masked Diffusion Models via Velocity Alignment
 
 <strong>Chenxing Wei</strong>, Jiazhen Kang, Hong Wang, Jianqing Zhang, Hao Jiang, Xiaolong Xu, Ningyuan Sun, Ying He, F. Richard Yu, Yao Shu, Bo Jiang
 
